@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto"
+    tools:context=".activities.QualityActivity">
+
+    <item
+        android:id="@+id/action_searchqlty"
+        android:orderInCategory="1"
+        myapp:showAsAction="always"
+        myapp:actionViewClass="android.widget.SearchView"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/action_newqlty"
+        android:title="Add"
+        android:icon="@drawable/m_add"
+        app:showAsAction="never" />
+
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Premium Fresh Milk</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="hyphen">-</string>
+    <string name="btn_skip">SKIP</string>
+    <string name="btn_next">NEXT</string>
+</resources>

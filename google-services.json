@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1071168311052",
+    "firebase_url": "https://my-react-crud-94438-default-rtdb.firebaseio.com",
+    "project_id": "my-react-crud-94438",
+    "storage_bucket": "my-react-crud-94438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071168311052:android:802e3d41bd12c993658329",
+        "android_client_info": {
+          "package_name": "com.example.premiumfreshmilk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071168311052-i6duttlnvjrsvslgktvvref0fgshpqjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO656Vhy4xecvIGIosYCuzMOpV8OcNltU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071168311052-i6duttlnvjrsvslgktvvref0fgshpqjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071168311052:android:903ecc4bba8f48c7658329",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasecrudkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071168311052-i6duttlnvjrsvslgktvvref0fgshpqjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO656Vhy4xecvIGIosYCuzMOpV8OcNltU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071168311052-i6duttlnvjrsvslgktvvref0fgshpqjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
